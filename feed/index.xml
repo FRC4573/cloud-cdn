@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>South River Rambotics</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Jan 2019 22:32:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/02/cropped-cropped-new-rambotics-logo-1-32x32.png</url>
+	<title>South River Rambotics</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>New Youtube Video!</title>
+		<link>/new-youtube-video/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-youtube-video</link>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Fri, 18 Jan 2019 22:32:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://rambotics4573.club/?p=263</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Rambotics" width="800" height="450" src="https://www.youtube.com/embed/EXtplPvhKwg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Electrical Guide</title>
+		<link>/electrical-guide/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=electrical-guide</link>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Thu, 17 Jan 2019 22:02:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://rambotics4573.club/?p=239</guid>
+
+					<description><![CDATA[Helpful guide on the robots electronic components and simple code for each part]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-gdm-google-drive-embedder-viewer">[google-drive-embed url=&#8221;https://drive.google.com/file/d/0B0nXNjzNbF-WcHhqTFZwLU81eDFQZnBCYmhkcF9KMlY4VG1N/preview?usp=drivesdk&#8221; title=&#8221;frc-electrical-bible_1.pdf&#8221; icon=&#8221;https://drive-thirdparty.googleusercontent.com/16/type/application/pdf&#8221; width=&#8221;100%&#8221; height=&#8221;400&#8243; style=&#8221;embed&#8221;]</p>
+
+
+
+<p>Helpful guide on the robots electronic components and simple code for each part</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kickoff Livestream</title>
+		<link>/kickoff-livestream/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kickoff-livestream</link>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Sat, 05 Jan 2019 15:12:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://rambotics4573.club/?p=204</guid>
+
+					<description><![CDATA[Watch the kickoff event Livestream on Twitch! CLICK HERE]]></description>
+										<content:encoded><![CDATA[
+<p>Watch the kickoff event Livestream on Twitch!</p>
+
+
+
+<p><a href="https://m.twitch.tv/firstinspires">CLICK HERE</a></p>
+
+
+
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://m.twitch.tv/firstinspires
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Good News!!</title>
+		<link>/good-news/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=good-news</link>
+					<comments>/good-news/#respond</comments>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Mon, 06 Aug 2018 21:39:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rambotics4573.wordpress.com/?p=83</guid>
+
+					<description><![CDATA[Thanks to technical support and a donation from United Software Consultants Inc. , we now have our own domain! www.rambotics4573.club is now ours! I&#8217;ll be connecting it to a server and get it running in the weeks to come, stay tuned!]]></description>
+										<content:encoded><![CDATA[<p>Thanks to technical support and a donation from <a href="https://uscnet.com/">United Software Consultants Inc.</a> , we now have our own domain!</p>
+<p><a href="http://rambotics4573.club/">www.rambotics4573.club</a> is now ours! I&#8217;ll be connecting it to a server and get it running in the weeks to come, stay tuned!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/good-news/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>National Night Out!</title>
+		<link>/national-night-out/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=national-night-out</link>
+					<comments>/national-night-out/#respond</comments>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Sun, 05 Aug 2018 00:24:47 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://rambotics4573.wordpress.com/?p=72</guid>
+
+					<description><![CDATA[Join Us!: On Tuesday, August 7, 2018 in the high school parking lot, a National Night Out event will be happening from 5-9 pm. We will have a booth and all the help we can get is appreciated! See you soon!]]></description>
+										<content:encoded><![CDATA[<h1>Join Us!:</h1>
+<p>On Tuesday, August 7, 2018 in the high school parking lot, a National Night Out event will be happening from 5-9 pm. We will have a booth and all the help we can get is appreciated! See you soon!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/national-night-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Upcoming Pages</title>
+		<link>/upcoming-pages/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=upcoming-pages</link>
+					<comments>/upcoming-pages/#respond</comments>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Sat, 04 Aug 2018 17:18:03 +0000</pubDate>
+				<category><![CDATA[2019]]></category>
+		<guid isPermaLink="false">https://rambotics4573.wordpress.com/?p=69</guid>
+
+					<description><![CDATA[More pages like the team roster and mentor and captain list to go live soon! Have a page to suggest? Email me at mssabir786@gmail.com or comment on this post and I&#8217;ll make a page out of your idea!]]></description>
+										<content:encoded><![CDATA[<p>More pages like the team roster and mentor and captain list to go live soon! Have a page to suggest? Email me at mssabir786@gmail.com or comment on this post and I&#8217;ll make a page out of your idea!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/upcoming-pages/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Photos from 2018 Season</title>
+		<link>/photos-from-2018-season/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=photos-from-2018-season</link>
+					<comments>/photos-from-2018-season/#respond</comments>
+		
+		<dc:creator><![CDATA[moiz sabir]]></dc:creator>
+		<pubDate>Sat, 04 Aug 2018 02:01:21 +0000</pubDate>
+				<category><![CDATA[2018]]></category>
+		<category><![CDATA[frc]]></category>
+		<category><![CDATA[power up]]></category>
+		<category><![CDATA[rams]]></category>
+		<category><![CDATA[south river]]></category>
+		<guid isPermaLink="false">https://rambotics4573.wordpress.com/?p=29</guid>
+
+					<description><![CDATA[To view photos from the 2018 competition year, CLICK HERE &#160;]]></description>
+										<content:encoded><![CDATA[<p>To view photos from the 2018 competition year, <a href="https://www.dropbox.com/sh/i0atsbyxk4n3odm/AACoEPY7GExOihoF_4NTFVQ4a?dl=0">CLICK HERE</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/photos-from-2018-season/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
